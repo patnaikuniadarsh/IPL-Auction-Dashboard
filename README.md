@@ -22,19 +22,21 @@ A 3-page interactive Power BI dashboard that simulates the entire IPL player auc
 - Place bids from ₹0.5 Cr to ₹30 Cr
 - Real-time budget tracking (₹100 Cr per team)
 
-![Page 2](page2.png)
+<img width="1433" height="745" alt="Auction Tracker" src="https://github.com/user-attachments/assets/03c70282-5d17-4c06-b612-7326d55a5105" />
+
 
 ### Page 3: Team Squad
 - View final squads for all 10 teams
 - Track total spent, remaining budget & slots left
 
-![Page 3](page3.png)
+<img width="1437" height="786" alt="Team Squard" src="https://github.com/user-attachments/assets/c9269960-eef2-44fc-8e6f-de3c70351588" />
+
 
 ---
 
 ## 🛠️ How to View
 
-1. Download the `.pbix` file
+1. Download the file 
 2. Open with Power BI Desktop (free)
 3. Navigate through 3 pages using bottom tabs
 
