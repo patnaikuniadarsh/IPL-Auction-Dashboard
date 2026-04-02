@@ -32,6 +32,11 @@ A 3-page interactive Power BI dashboard that simulates the entire IPL player auc
 <img width="1437" height="786" alt="Team Squard" src="https://github.com/user-attachments/assets/c9269960-eef2-44fc-8e6f-de3c70351588" />
 
 
+
+
+<img width="1163" height="319" alt="{67675055-8349-4ABF-AC5A-4C26A7A30A54}" src="https://github.com/user-attachments/assets/54e70e12-87f1-436f-9689-641c00f3e672" />
+
+
 ---
 
 ## 🛠️ How to View
