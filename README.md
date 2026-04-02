@@ -14,7 +14,8 @@ A 3-page interactive Power BI dashboard that simulates the entire IPL player auc
 - Custom DAX measures: Performance Score & Form Indicator
 - Player slicer with real-time stats update
 
-![Page 1](page1.png)
+<img width="1422" height="790" alt="Player pool" src="https://github.com/user-attachments/assets/7d1a1159-8b96-4143-907d-2a1075bb29bc" />
+
 
 ### Page 2: Auction Tracker
 - Select any team (CSK, MI, RCB, etc.)
