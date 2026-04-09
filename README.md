@@ -19,19 +19,37 @@ A 3-page interactive Power BI dashboard that simulates the entire IPL player auc
 
 ---
 
-## 📸 Dashboard Previews
+## 🔗 Dashboard Pages
 
 ### Page 1: Player Pool
-<img width="800" src="https://raw.githubusercontent.com/patnaikuniadarsh/IPL-Auction-Dashboard/main/Player%20pool.png">
+- Analyze 30 players with batting, bowling & fielding stats
+- Custom DAX measures: Performance Score & Form Indicator
+- Player slicer with real-time stats update
+
+![IPL ANALYSIS SHEET-1](https://github.com/user-attachments/assets/3caa7a9e-053f-4631-8548-f458cd342986)
+
 
 ### Page 2: Auction Tracker
-<img width="800" src="https://raw.githubusercontent.com/patnaikuniadarsh/IPL-Auction-Dashboard/main/Auction%20Tracker.png">
+- Select any team (CSK, MI, RCB, etc.)
+- Place bids from ₹0.5 Cr to ₹30 Cr
+- Real-time budget tracking (₹100 Cr per team)
+
+![IPL ANALYSIS SHEET -2](https://github.com/user-attachments/assets/c5bc9766-8dac-4aa6-b53a-6f74c2a13e22)
+
 
 ### Page 3: Team Squad
-<img width="800" src="https://raw.githubusercontent.com/patnaikuniadarsh/IPL-Auction-Dashboard/main/Team%20Squard.png">
+- View final squads for all 10 teams
+- Track total spent, remaining budget & slots left
+
+![IPL ANALYSIS SHEET -3](https://github.com/user-attachments/assets/219bec2c-f17a-488c-925e-4d7d73536c30)
+
 
 ### Data Model View
-<img width="800" src="https://raw.githubusercontent.com/patnaikuniadarsh/IPL-Auction-Dashboard/main/model%20view.png">
+![IPL ANALYSIS DAX -1](https://github.com/user-attachments/assets/daf8a67f-3f18-4879-b68b-516303495e0c)
+
+![IPL ANALYSIS DAX -2](https://github.com/user-attachments/assets/0a9357eb-811c-43d9-aa52-703179140784)
+
+
 
 ---
 
@@ -61,11 +79,6 @@ A 3-page interactive Power BI dashboard that simulates the entire IPL player auc
 | 2 | **Real-time Budget Tracking** | Dynamic budget updates as bids are placed |
 | 3 | **Interactive Slicers** | Team and player filters across all pages |
 | 4 | **Multi-page Dashboard** | Seamless navigation with consistent design |
-
----
-
-## 🎥 Demo Video
-[Watch Demo](IPL%20ANALYSIS%20VIDEO.mp4)
 
 ---
 
